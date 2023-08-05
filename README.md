@@ -13,7 +13,7 @@ A Python File which automatically fixes broken Emergency Service lights on vehic
 
 - Install The **FiveM ES Lights Fixer .exe** [Here](https://github.com/arnisbartusevicius/FiveM-ES-Lights-Fixer/releases/)
 
-- Run The .exe And **Select The Directory Containing The Broken Vehicles** 
+- Run The .exe And **Select The Directory Containing Your Vehicles** 
 ## Feedback
 
 If you have any feedback, please reach out to me at arnisbartusevicius@proton.me
@@ -23,7 +23,7 @@ If you have any feedback, please reach out to me at arnisbartusevicius@proton.me
 
 - [@arnisbartusevicius](https://github.com/arnisbartusevicius)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://badgen.net/badge/LICENSE/GPL%203.0/red?icon=)](https://choosealicense.com/licenses/mit/)
 
 
 ## 🚀 About Me
